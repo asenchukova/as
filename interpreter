@@ -1,0 +1,20 @@
+C:\Users\Serge>python
+Python 3.6.7 (v3.6.7:6ec5cf24b7, Oct 20 2018, 13:35:33) [MSC v.1900 64 bit (AMD6
+4)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> exit()
+
+C:\Users\Serge>python
+Python 3.6.7 (v3.6.7:6ec5cf24b7, Oct 20 2018, 13:35:33) [MSC v.1900 64 bit (AMD6
+4)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 24+831
+855
+>>> (24+831)/3
+285.0
+>>> 24*831
+19944
+>>> ^Z
+
+
+C:\Users\Serge>
