@@ -1,0 +1,12 @@
+>>> float('1')
+1.0
+>>> int('2.5')
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: invalid literal for int() with base 10: '2.5'
+>>> bool(1)
+True
+>>> bool('')
+False
+>>> bool(0)
+False
