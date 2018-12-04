@@ -1,0 +1,13 @@
+>>> p={"city":"Москва","temperature":20}
+>>> p.get("city")
+'Москва'
+>>> p["temperature"] -= 5
+>>> p
+{'city': 'Москва', 'temperature': 15}
+>>> "country" in p
+False
+>>> p.get("country","Россия")
+'Россия'
+>>> p["date"]="27.05.2017"
+>>> len(p)
+3
