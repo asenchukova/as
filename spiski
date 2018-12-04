@@ -1,0 +1,15 @@
+>>> mylist=[2,3,4,5,6,7]
+>>> print(mylist)
+[2, 3, 4, 5, 6, 7]
+>>> mylist.append("Python")
+>>> len(mylist)
+7
+>>> mylist[0]
+2
+>>> mylist[6]
+'Python'
+>>> mylist[1:4]
+[3, 4, 5]
+>>> del mylist[6]
+>>> print(mylist)
+[2, 3, 4, 5, 6, 7]
