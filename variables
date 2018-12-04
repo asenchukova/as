@@ -1,5 +1,9 @@
 name="Ann"
 print(name)
+C:\projects\lesson1>hello.py
+Ann
 
 user_info={"first_name":"Ann","last_name":"Senchukova"}
 print(user_info.get("first_name"))
+C:\projects\lesson1>info.py
+Ann
